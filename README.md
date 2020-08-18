@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Shashank [website]
+### Hi there 👋 I'm [Shashank].
 
 ## I'm a Grad Student looking for a full-time position as a Software Engineer.
 
@@ -25,16 +25,8 @@
 <br />
 <br />
 
----
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="pShashank's Github Stats" src="https://github-readme-stats.pShashank.vercel.app/api?username=pShashank&show_icons=true&hide_border=true" />
-
-</details>
-
 [website]: https://pshashank.com
+[shashank]: https://pshashank.com
 [twitter]: https://twitter.com/ShankIsHere
 [instagram]: https://www.instagram.com/the_shashank.p/
 [linkedin]: https://www.linkedin.com/in/shashank-penukonda/
