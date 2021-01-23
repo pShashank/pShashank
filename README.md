@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm [Shashank].
 
-## I'm a Grad Student looking for a full-time position as a Software Engineer.
+## I'm a Master's Student looking for a full-time position as a Software Engineer.
 
 - 🔭 I’m currently working on my website
 - 🌱 I’m currently learning Spring and React
