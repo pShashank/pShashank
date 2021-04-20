@@ -1,9 +1,9 @@
 ### Hi there 👋 I'm [Shashank].
 
-## I'm a Master's Student looking for a full-time position as a Software Engineer.
+## I'm a Software Engineer at Tata Consultancy Services.
 
 - 🔭 I’m currently working on my website
-- 🌱 I’m currently learning Spring and React
+- 🌱 I’m currently learning MEAN Stack
 - ⚡ Fun fact: I'm also learning to play the violin 🎻
 
 ### Connect with me:
