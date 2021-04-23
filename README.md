@@ -26,7 +26,7 @@
 <br />
 
 [website]: https://pshashank.com
-[shashank]: https://pshashank.com
+[shashank]: https://shashankp.us
 [twitter]: https://twitter.com/ShankIsHere
 [instagram]: https://www.instagram.com/the_shashank.p/
 [linkedin]: https://www.linkedin.com/in/shashank-penukonda/
