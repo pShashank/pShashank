@@ -24,7 +24,6 @@ I’m a Software Engineer with more than 3 years of experience designing and dev
 [<img align="left" alt="Spring" width="26px" src="https://avatars2.githubusercontent.com/u/1134463?s=400&v=4" />] 
 
 <br />
-<br />
 
 [website]: https://pshashank.com
 [shashank]: https://shashankp.us
