@@ -24,9 +24,3 @@ I’m a Software Engineer with more than 3 years of experience designing and dev
 [<img align="left" alt="Spring" width="26px" src="https://avatars2.githubusercontent.com/u/1134463?s=400&v=4" />] 
 
 <br />
-
-[website]: https://pshashank.com
-[shashank]: https://shashankp.us
-[twitter]: https://twitter.com/ShankIsHere
-[instagram]: https://www.instagram.com/the_shashank.p/
-[linkedin]: https://www.linkedin.com/in/shashank-penukonda/
